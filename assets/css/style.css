@@ -1,0 +1,35 @@
+body {
+	background-image: url("../images/canadaflag.jpg");
+	text-align: center;
+    background-size: cover;
+	background-repeat: no-repeat;
+}
+
+header {
+	color: red;
+    text-shadow: gray 0.5em 0.5em 0.5em;
+	padding-top: 20px;
+}
+
+#timer {
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#countdown {
+    font-size: 36px
+}
+
+#questions {
+    color:white;
+    font-size: 18px;
+}
+
+#results {
+    color: white;
+}
+
+#restart {
+    color: black;
+}
