@@ -2,7 +2,8 @@
 Georgia Tech Week 5 - Advanced Trivia
 
  ```
-Test your knowledge of Canada with this timed trivia game! You only have 60 seconds to try and answer all questions!
+Test your knowledge of Canada with this timed trivia game! You only have 60 seconds to
+try and answer all questions!
 
 App uses JavaScript for the logic and jQuery to manipulate HTML.
  ```
